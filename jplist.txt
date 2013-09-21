@@ -1,0 +1,15 @@
+## To add more simple write an ASCII string followed by a link
+## to a waypoint or point of interest [&B******]
+
+Urmaugs Secret [&BDIEAAA=]
+Pig Iron Quarry [&BBkCAAA=]
+Demongrub Pits [&BPwAAAA=]
+King Jaliss Refuge [&BMAAAAA=]
+Spelunkers Delve [&BP4FAAA=]
+Crimson Plateau [&BMYDAAA=]
+Loreclaw Expanse [&BMcDAAA=]
+Viziers Tower [&BPcCAAA=]
+Buried Archives [&BCIDAAA=]
+Shamans Rookery [&BHcBAAA=]
+Behem Gauntlet [&BP0BAAA=]
+Under New Management [&BNUGAAA=]
